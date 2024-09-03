@@ -14,7 +14,7 @@ jobs:
         build_env:
           - tag: "18.06.9"
             pkgarch: mips_24kc
-            target: ath79
+            target: ar71xx
             subtarget: tiny
             vermagic: "db2d5425c674d1648616e3c37760e80e"
 
